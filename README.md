@@ -1,2 +1,4 @@
 # kicad-journey
-PCB layouts
+Various PCB layouts
+
+Will update one by one.
